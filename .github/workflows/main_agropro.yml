@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: agropro
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D006DEC8DDF404C8EC088AF9611CDDC }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_045A19FD9D7246B085243A28C14B6D6F }}
 
