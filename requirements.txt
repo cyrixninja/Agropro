@@ -2,7 +2,7 @@ numpy
 pandas
 Flask
 scikit-learn
-https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://files.pythonhosted.org/packages/a1/1f/a372f2e9f0a54fc479fcee3ac072f8cd5091054e9d7293dd4372338e5277/torch-1.9.0-cp36-cp36m-manylinux1_x86_64.whl
 https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
 requests
 Pillow
